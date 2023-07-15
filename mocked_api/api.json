@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "Your first TODO!",
+      "description": "Hooray! Welcome to our app!\n\nTo help you get started, we've created your first TODO item.\nFeel free to edit or delete it. We're excited to help you stay productive!\n\n- todoMañana Team",
+      "status": "In progress",
+      "userId": 2,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Inga",
+      "surname": "Inga",
+      "email": "Inga@inga.com",
+      "password": "Inga1463",
+      "id": 2
+    }
+  ]
+}
